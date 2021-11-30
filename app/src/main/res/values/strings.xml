@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Info Ganaderia</string>
+
+
+    <string name="btn_iniciar_pantalla">Iniciar Sesion</string>
+    <string name="btn_registrar_pantalla">Registrarse</string>
+
+    <string name="btn_iniciar_seccion">Inicar Seccion</string>
+    <string name="btn_registrarse">Registrarse</string>
+    <string name="correo">Correo</string>
+
+    <string name="noticias_btn"></string>
+    <string name="tipos_btn">Tipos de ganaderia</string>
+    <string name="razas_btn">Razas de ganado</string>
+    <string name="consejos_btn">Consejos</string>
+    <string name="libros_btn">Libros Gratis</string>
+
+</resources>
