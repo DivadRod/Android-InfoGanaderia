@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/eXtreme PC/AndroidStudioProjects/InfoGanaderia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1638888888888889" />
         <entry key="..\:/Users/eXtreme PC/AndroidStudioProjects/InfoGanaderia/app/src/main/res/layout/activity_iniciar_sesion.xml" value="0.33" />
-        <entry key="..\:/Users/eXtreme PC/AndroidStudioProjects/InfoGanaderia/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/eXtreme PC/AndroidStudioProjects/InfoGanaderia/app/src/main/res/layout/activity_main.xml" value="0.24375" />
         <entry key="..\:/Users/eXtreme PC/AndroidStudioProjects/InfoGanaderia/app/src/main/res/layout/activity_registrarse.xml" value="0.33" />
       </map>
     </option>

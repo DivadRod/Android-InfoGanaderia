@@ -9,10 +9,12 @@
     <string name="btn_registrarse">Registrarse</string>
     <string name="correo">Correo</string>
 
-    <string name="noticias_btn"></string>
+    <string name="noticias_btn">Noticias</string>
     <string name="tipos_btn">Tipos de ganaderia</string>
     <string name="razas_btn">Razas de ganado</string>
     <string name="consejos_btn">Consejos</string>
     <string name="libros_btn">Libros Gratis</string>
+
+    <string name="description_noticias">Las ultimas noticias sobre ganaderia</string>
 
 </resources>
