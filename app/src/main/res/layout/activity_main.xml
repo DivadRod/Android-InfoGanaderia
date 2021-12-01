@@ -87,6 +87,7 @@
                                 android:id="@+id/noticias"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:onClick="goToNoticias"
                                 android:text="@string/noticias_btn" />
                         </LinearLayout>
 
@@ -131,6 +132,7 @@
                                 android:id="@+id/tipos"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:onClick="goToTipos"
                                 android:text="@string/tipos_btn" />
                         </LinearLayout>
 
@@ -176,6 +178,7 @@
                                 android:id="@+id/razas"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:onClick="goToRazas"
                                 android:text="@string/razas_btn" />
                         </LinearLayout>
 
@@ -222,6 +225,7 @@
                                 android:id="@+id/consejos"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:onClick="goToConsejos"
                                 android:text="@string/consejos_btn" />
                         </LinearLayout>
 
@@ -268,6 +272,7 @@
                                 android:id="@+id/libros"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:onClick="goToLibrosGratis"
                                 android:text="@string/libros_btn" />
                         </LinearLayout>
 

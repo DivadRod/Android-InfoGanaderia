@@ -3,6 +3,7 @@ package com.example.infoganaderia;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 
@@ -25,4 +26,29 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+
+    public void goToNoticias(View view){
+        Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("https://todosobreganado.com/category/noticias-sobre-ganaderia"));
+        startActivity(i);
+    }
+
+    public void goToTipos(View view){
+        Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("https://todosobreganado.com/tipos-de-ganaderia/"));
+        startActivity(i);
+    }
+
+    public void goToRazas(View view){
+        Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("https://todosobreganado.com/razas/"));
+        startActivity(i);
+    }
+
+    public void goToConsejos(View view){
+        Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("https://todosobreganado.com/consejos/"));
+        startActivity(i);
+    }
+
+    public void goToLibrosGratis(View view){
+        Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse(""));
+        startActivity(i);
+    }
 }
