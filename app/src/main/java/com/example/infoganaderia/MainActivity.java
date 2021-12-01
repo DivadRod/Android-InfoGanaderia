@@ -47,8 +47,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
-    public void goToLibrosGratis(View view){
-        Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse(""));
+    public void goToBooks(View view){
+        Intent i = new Intent(this, LibrosActivity.class);
         startActivity(i);
     }
 }
